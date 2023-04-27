@@ -1,34 +1,34 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Басманова Дарья Кирилловна 
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Дарья
+last_name: Басманова
 
 # Status emoji
-status:
-  icon: ☕️
+status: 
+  icon: 😻
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Студентка
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: РУДН Университет Дружбы Народов
+    url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Рисование
+  - Спорт
+  - Программирование
 
 # Education to show in About widget
 education:
@@ -79,6 +79,6 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Всем привет! Меня зовут Даша. Учусь на факультете Физико-математических и естественных наук. Направление Бизнес-информатика. Я студентка 1 курса. Председатель Комиссии по Качеству образования. Честная, добрая и заботливая. Люблю рисовать и занимаюсь спортом. Работаю баристой. Буду рада видеть вас на своем сайте. 
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
